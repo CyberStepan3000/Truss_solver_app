@@ -1,0 +1,27 @@
+
+# Виртуальное окружение (папка venv весит много, её никто не пушит)
+venv/
+.venv/
+env/
+ENV/
+
+# Кэш Python (автоматически создаваемые файлы компиляции)
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Настройки IDE (VS Code и PyCharm)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Системные файлы (Windows / Mac)
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Файлы логов самой ОС или сборщиков (если появятся)
+*.log
