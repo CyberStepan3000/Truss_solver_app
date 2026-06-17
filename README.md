@@ -33,6 +33,6 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone [https://github.com/ВАШ_НИК/truss-fem-app.git](https://github.com/ВАШ_НИК/truss-fem-app.git)
+   git clone https://github.com/CyberStepan3000/Truss_solver_app
    cd truss-fem-app
    ```
